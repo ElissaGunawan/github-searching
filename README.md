@@ -1,5 +1,5 @@
 To run this project, 
 
-run : npm install
+run : npm install --legacy-peer-deps
 
 to get all depencies
