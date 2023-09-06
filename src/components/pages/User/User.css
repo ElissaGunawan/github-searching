@@ -1,0 +1,56 @@
+.user-information {
+    background: #053B50;
+    padding: 30px 30px;
+    border-radius: 10px;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: row;
+    color: #fff;
+  }
+  .user-information .image {
+    width: 30%;
+    margin-right: 30px;
+  }
+  .user-information .image img {
+    width: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .user-content {
+    padding: 10px;
+  }
+  img {
+    width: 35px;
+  }
+  
+  .more-data {
+    font-size: 13px;
+    font-weight: 100;
+  }
+  .more-data p {
+    padding: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .more-data img {
+    width: 20px;
+  }
+  .user-repos {
+    background-color: #EEEEEE;
+    padding: 10px 30px;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  .repo {
+    padding: 20px;
+    border-bottom: 1px solid #444;
+  }
+  
+  .repo a {
+    color: #6cc644;
+  }
+
+  .link {
+    color: #64CCC5;
+  }
